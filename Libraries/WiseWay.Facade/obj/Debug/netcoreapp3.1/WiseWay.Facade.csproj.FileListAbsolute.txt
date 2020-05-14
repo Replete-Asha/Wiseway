@@ -1,0 +1,8 @@
+D:\Development\WiseWay\Libraries\WiseWay.Facade\bin\Debug\netcoreapp3.1\WiseWay.Facade.deps.json
+D:\Development\WiseWay\Libraries\WiseWay.Facade\bin\Debug\netcoreapp3.1\WiseWay.Facade.dll
+D:\Development\WiseWay\Libraries\WiseWay.Facade\bin\Debug\netcoreapp3.1\WiseWay.Facade.pdb
+D:\Development\WiseWay\Libraries\WiseWay.Facade\obj\Debug\netcoreapp3.1\WiseWay.Facade.csprojAssemblyReference.cache
+D:\Development\WiseWay\Libraries\WiseWay.Facade\obj\Debug\netcoreapp3.1\WiseWay.Facade.AssemblyInfoInputs.cache
+D:\Development\WiseWay\Libraries\WiseWay.Facade\obj\Debug\netcoreapp3.1\WiseWay.Facade.AssemblyInfo.cs
+D:\Development\WiseWay\Libraries\WiseWay.Facade\obj\Debug\netcoreapp3.1\WiseWay.Facade.dll
+D:\Development\WiseWay\Libraries\WiseWay.Facade\obj\Debug\netcoreapp3.1\WiseWay.Facade.pdb

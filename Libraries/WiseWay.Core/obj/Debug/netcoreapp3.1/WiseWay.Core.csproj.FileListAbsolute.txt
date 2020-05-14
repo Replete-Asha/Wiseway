@@ -1,0 +1,8 @@
+D:\Development\WiseWay\Libraries\WiseWay.Core\bin\Debug\netcoreapp3.1\WiseWay.Core.deps.json
+D:\Development\WiseWay\Libraries\WiseWay.Core\bin\Debug\netcoreapp3.1\WiseWay.Core.dll
+D:\Development\WiseWay\Libraries\WiseWay.Core\bin\Debug\netcoreapp3.1\WiseWay.Core.pdb
+D:\Development\WiseWay\Libraries\WiseWay.Core\obj\Debug\netcoreapp3.1\WiseWay.Core.csprojAssemblyReference.cache
+D:\Development\WiseWay\Libraries\WiseWay.Core\obj\Debug\netcoreapp3.1\WiseWay.Core.AssemblyInfoInputs.cache
+D:\Development\WiseWay\Libraries\WiseWay.Core\obj\Debug\netcoreapp3.1\WiseWay.Core.AssemblyInfo.cs
+D:\Development\WiseWay\Libraries\WiseWay.Core\obj\Debug\netcoreapp3.1\WiseWay.Core.dll
+D:\Development\WiseWay\Libraries\WiseWay.Core\obj\Debug\netcoreapp3.1\WiseWay.Core.pdb
